@@ -1,6 +1,11 @@
 # quizzii
 
-A new Flutter application.
+A cool quiz game application.
+
+
+https://user-images.githubusercontent.com/51168410/119249902-11178f80-bbba-11eb-9c1e-1239831e5277.mp4
+
+
 
 ## Getting Started
 
